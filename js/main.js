@@ -76,7 +76,6 @@ function addCommand(command) {
             break;
         case 'joke':
             parseToHTML(joke,generatedContainer);
-            // Example usage:
             fetchAndAssignJoke().then(joke => {
                 const jokeArray = [
                     '<br>',
