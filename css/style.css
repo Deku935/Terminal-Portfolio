@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 15px 20px;
+    min-height: 99%;
+    /* width: 100%;
+    min-width: 550px; */
+    color: #4ca478;
+    background: #211D1B;
+    font-family: cursor, monospace;
+    overflow-x: hidden;
+}
+
+/* UTILITY CLASSES */
+/* FONT  */
+.cursor-font {
+    font-family: cursor, monospace; 
+}
+
+/* USER SELECT */
+.user-select-non {
+    user-select: none;
+}
+/* COLOR  */
+.color1 {
+    color: #a97858;
+}
+.color2 {
+    color: #b0b04b;
+}
+.color3 {
+    color: #c17386;
+}
+.color4 {
+    color: #4ca478;
+}
+.color5 {
+    color: #4c7ba4;
+}
+
+/* BLINKING CURSOR ANIMATION */
+@keyframes blink {
+    0%, 49% {
+        opacity: 0;
+    }
+    50%, 100% {
+        opacity: 1;
+    }
+}
+
+.blinking-cursor {
+    position: relative;
+    left: -20px;
+    animation: blink 1s step-start infinite;
+    z-index: -1;
+}
+
+/* INPUT */
+#inputArea{
+    font-family: inherit; /* Inherit font family from parent */
+    font-size: inherit; /* Inherit font size from parent */
+    color: inherit; /* Inherit font color from parent */
+    padding: 5px; /* Padding for better appearance */
+    border: none; /* Remove border */
+    padding-right: 10px;
+    outline: none; /* Remove default focus outline */
+    box-sizing: border-box;
+    background: none;
+    width: 10px ; /* Set width to auto */
+    min-width: 10px; /* Set a minimum width */
+    max-width: 80%; /* Set a maximum width */
+    caret-color: transparent; /* Hide the caret */
+}
+
+/* _________________ ROUGH WORK ___________________________________ */
