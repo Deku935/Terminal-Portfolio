@@ -72,7 +72,7 @@ const defaultCommand = [
 ];
 
 const version = [
-    '[Version 1.0.0]<br>',
+    '[Version 1.0.1]<br>',
     '<br>'
 ];
 
@@ -80,11 +80,11 @@ const info = [
     '<br>',
     '<span class="color1">Website Information:<span><br>',
     '--------------------<br>',
-    '© 2024 [Version 1.0.0] <br>',
+    '© 2025 [Version 1.0.1] <br>',
     'This terminal-based website is crafted purely using HTML, CSS, and JavaScript, ensuring a lightweight user experience.<br>',
-    '<span class="color5">-> HTML ##__________________10% <span><br>',
-    '<span class="color5">-> CSS  #___________________05% <span><br>',
-    '<span class="color5">-> JS   ###############_____85% <span><br><br>',
+    '<span class="color5">-> HTML ######______________30% <span><br>',
+    '<span class="color5">-> CSS  ######______________30% <span><br>',
+    '<span class="color5">-> JS   ########____________40% <span><br><br>',
     '<span class="color1">### Inspiration:<span><br>',
     'The concept and design are inspired by Forest Knight, Youtube:',
     '<span class="color5"> https://www.youtube.com/fknight/<span><br><br>',
@@ -104,7 +104,7 @@ const about = [
     '<span class="color2">Ashish Deshmukh, Software Engineer.<span><br>',
     '-------------------------------<br>',
     'Hi, I\'m Ashish, a dedicated Software Engineer with a Bachelor\'s degree in Engineering in the field of Computer Science.<br>',
-    'I have 1.7 years of industrial experience specializing as a Java Developer.<br><br>',
+    'I have 1.8 years of industrial experience specializing as a Java Developer.<br><br>',
     '<span class="color1">### Skills and Expertise:<span><br>',
     'Backend/Frameworks:<br>',
     '<span class="color5">-> Java (8,8+), Spring Boot, REST Api, JPA, Spring Security.<span><br>',
@@ -151,6 +151,13 @@ const joke = [
 
 const projects = [
     '<br>',
+    '<span class="color1">RPG Indie Game (Present):<span><br>',
+    'Developing an engaging RPG (Role-Playing Game) using Java and AWT for the graphical user interface. <br>',
+    'Utilized object-oriented programming (OOP) principles and Java\'s AWT library to create a smooth interface for players. <br>',
+    'Focused on creating immersive game mechanics, including inventory systems, combat scenarios, and a level-up system. <br>',
+    '(Tech Used:',
+    '<span class="color5"> Java, AWT, OOP, Multi Threading<span>',
+    ').<br><br>',
     '<span class="color1">Music on Emotions:<span><br>',
     'A music player which detects emotions by using facial expression of user and <br>',
     'recommends the songs based on their mood.<br>', 
