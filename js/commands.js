@@ -175,8 +175,7 @@ const projects = [
     'providing a nostalgic and engaging experience for visitors.<br>',
     '(Tech Used:',
     '<span class="color5"> HTML, CSS, JavaScript<span>',
-    ').<br><br>',
-    '<br>'
+    ').<br><br>'
 ];
 
 
