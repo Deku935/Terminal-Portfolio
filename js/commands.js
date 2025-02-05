@@ -1,7 +1,7 @@
 // COMMANDS
 
 const defaultBanner = [
-'<span class="color2">It\'s a terminal based portfolio.  (It\'s not real terminal just a website.) © 2024 [Version 1.0.0] </span><br>',
+'<span class="color2">It\'s a terminal based portfolio.  (It\'s not real terminal just a website.) © 2025 [Version 1.0.1] </span><br>',
 '                                       _        _           _<br>',
 '               __                     / \\   ___| |__ (_)___| |__<br>',
 '    _________ |==|                   / _ \\ / __| \'_ \\| / __| \'_ \\<br>',
