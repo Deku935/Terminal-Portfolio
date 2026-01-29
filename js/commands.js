@@ -111,7 +111,7 @@ const about = [
     'To transition into a Software QA role that leverages both development and testing expertise. <br><br>',
     '<span class="color1">### Skills and Expertise:<span><br>',
     'Backend/Frameworks:<br>',
-    '<span class="color5">-> Java (8), Spring Boot, REST Api, JPA, Spring Security, Selenium.<span><br>',
+    '<span class="color5">-> Java (8), Spring Boot, REST Api, JPA, Spring Security, Selenium (WebDriver), Basic TestNG.<span><br>',
     'Frontend/Frameworks:<br>',
     '<span class="color5">-> HTML, CSS, JavaScript, TypeScript, Angular.<span><br>',
     'Database:<br>',
@@ -204,4 +204,5 @@ const projects = [
 
 
 // COMMAND UTILIITIES
+
 
