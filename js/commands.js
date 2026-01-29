@@ -104,8 +104,8 @@ const about = [
     '<span class="color2">Ashish Deshmukh, Software Engineer.<span><br>',
     '-------------------------------<br>',
     'Hi, I\'m Ashish, a dedicated Software Engineer with a Bachelor\'s degree in Engineering in the field of Computer Science.<br>',
-    'Detail-oriented Software Professional with 1.8 years of experience as a Java Developer.<br>',
-    'Recent experience as a Manual QA Tester in the gaming industry.<br>',
+    'Detail oriented Software Professional with 2.2 years of experience in software development and testing.<br>',
+    'Proficient in Java, backend logic, API validation, and manual testing.<br>',
     'Skilled in backend development, API creation, and manual testing methodologies.<br>',
     'Currently upskilling in automation testing with Java and Selenium.<br>',
     'To transition into a Software QA role that leverages both development and testing expertise. <br><br>',
@@ -204,3 +204,4 @@ const projects = [
 
 
 // COMMAND UTILIITIES
+
